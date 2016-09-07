@@ -1,0 +1,17 @@
+{
+  "name": "reverse-dl",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test" : "standard"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.15.0",
+    "minimist": "^1.2.0",
+    "nodemon": "^1.10.2",
+    "rss": "^1.2.1",
+    "standard": "^8.0.0"
+  }
+}
