@@ -45,4 +45,4 @@ Currently this produces a valid RSS feed
  - [x] Add Items to feed support
  - [ ] Add persistency
  - [ ] Add email support
- - [ ]Add pubsubhubbub support
+ - [ ] Add pubsubhubbub support
