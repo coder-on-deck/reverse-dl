@@ -41,8 +41,8 @@ Currently this produces a valid RSS feed
 # Roadmap
 
 
- - ~Publish feed support~
- - ~Add Items to feed support~
- - Add persistency
- - Add email support
- - Add pubsubhubbub support
+ - [x] Publish feed support
+ - [x] Add Items to feed support
+ - [ ] Add persistency
+ - [ ] Add email support
+ - [ ]Add pubsubhubbub support
